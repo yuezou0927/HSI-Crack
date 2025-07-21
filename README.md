@@ -8,7 +8,7 @@ The code in this toolbox implements the "Road Crack Segmentation From Hyperspect
 
 More specifically, it is detailed as follow.
 
-![alt text](./framework.png)
+
 
 
 
