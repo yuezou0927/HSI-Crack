@@ -6,9 +6,6 @@ ___________
 The code in this toolbox implements the "Road Crack Segmentation From Hyperspectral Images Based On Image-Level Annotations". 
 
 
-More specifically, it is detailed as follow.
-
-
 
 
 
